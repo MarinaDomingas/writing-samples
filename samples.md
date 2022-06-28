@@ -13,7 +13,7 @@
 - The purpose of this page is to explain a technical open call, to a less technical audience, in order to get them to apply. The project is looking for people that have daily problems that can be solved or improved by using AI planning algorithms.
 - I wrote the text on that page, created the infographic and created the webinar image.
 - A partner that works deeply in the AI planning field reviewed the text.
-- To compose the open call texts, usually what I have is the project's “Proposal Agreement”. This is a document where the partners specify what is their vision for the project and what they commit to do, to achieve the expected results. I also have the help of the technical partners to clarify any technical doubts I might have, since the goal here is to explain this in a simple way to the general public.
+- To compose the open call texts, usually what I have is the project's “Project Proposal”. This is a document where the partners specify what is their vision for the project and what they commit to do, to achieve the expected results. I also have the help of the technical partners to clarify any technical doubts I might have, since the goal here is to explain this in a simple way to the general public.
 - Understanding all the specificities of the project well enough to be able to break it down in the simplest possible way, took me about 6 months where I attended a few  meetings, to observe the technical partners. Actually writing this text took me 3 iterations (+- 6h in total).
 
 
@@ -22,5 +22,5 @@
 - The purpose of this text was for the partners to publish on their websites. It will also be published on the project´s website, once the website is ready.
 - I wrote the text and created the visual.
 - The project manager of this project reviewed the text.
-- I had the “Proposal Agreement” and I attended a in-person meeting with all the partners where they explained the project in detail.
+- I had the “Project Proposal” and I attended a in-person meeting with all the partners where they explained the project in detail.
 - Writing this text took me about 2h.
