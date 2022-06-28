@@ -14,7 +14,7 @@
 - I wrote the text on that page, created the infographic and created the webinar image.
 - A partner that works deeply in the AI planning field reviewed the text.
 - To compose the open call texts, usually what I have is the project's “Proposal Agreement”. This is a document where the partners specify what is their vision for the project and what they commit to do, to achieve the expected results. I also have the help of the technical partners to clarify any technical doubts I might have, since the goal here is to explain this in a simple way to the general public.
-- Understanding all the specificities of the project well enough to be able to break it down in the simplest possible way, took me about 6 months where I attended a few  meetings, to observe the technical partners. Actually writing this text took me 3 iterations (+- 8h in total).
+- Understanding all the specificities of the project well enough to be able to break it down in the simplest possible way, took me about 6 months where I attended a few  meetings, to observe the technical partners. Actually writing this text took me 3 iterations (+- 6h in total).
 
 
 ## Sample 3 – Press release (lauching a new project)
@@ -23,4 +23,4 @@
 - I wrote the text and created the visual.
 - The project manager of this project reviewed the text.
 - I had the “Proposal Agreement” and I attended a in-person meeting with all the partners where they explained the project in detail.
-- Writing this text took me about 2hours.
+- Writing this text took me about 2 hours.
