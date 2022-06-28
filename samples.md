@@ -17,7 +17,7 @@
 - Understanding all the specificities of the project well enough to be able to break it down in the simplest possible way, took me about 6 months where I attended a few  meetings, to observe the technical partners. Actually writing this text took me 3 iterations (+- 8h in total).
 
 
-## Sample 3 – Press release of a new project
+## Sample 3 – Press release (lauching a new project)
 - [Link](https://matgenix.com/boosting-the-research-and-development-of-new-solutions-for-materials-replacing-the-platinum-group-metals-pgm/)
 - The purpose of this text was for the partners to publish on their websites. It will also be published on the project´s website, once the website is ready.
 - I wrote the text and created the visual.
