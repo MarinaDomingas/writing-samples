@@ -1,6 +1,6 @@
 
 ## Sample 1 – Project newsletter
-- [Link](https:/mailchi.mp/c8c98c1997b0/mediatechonstage-grand-finale?e=763801eb07)
+- [Link](https://mailchi.mp/c8c98c1997b0/mediatechonstage-grand-finale?e=763801eb07) 
 - The purpose of this newsletter was to disseminate what happened at the last MediaMotorEurope project event (Mediatech on stage)
 - I wrote and graphically composed all the newsletter. I made the gif using images extracted from the recording of the event.
 - The project manager that worked with me on this project reviewed the newsletter.
