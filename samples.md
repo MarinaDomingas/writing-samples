@@ -5,7 +5,7 @@
 - I wrote and graphically composed all the newsletter. I made the gif using images extracted from the recording of the event.
 - The project manager that worked with me on this project reviewed the newsletter.
 - For the newsletter we usually set up a graphical template at the beginning of the project and then always follow it. In terms of content, the objective was to tell what happened on the event.
-- This newsletter took me about 3h30 hours to compose, between deciding what to write and actually writing it, plus the time to make the gif (+-30min)
+- This newsletter took me about 3h30 to compose, between deciding what to write and actually writing it, plus the time to make the gif (+-30min)
 
 
 ## Sample 2 – Open call page
@@ -23,4 +23,4 @@
 - I wrote the text and created the visual.
 - The project manager of this project reviewed the text.
 - I had the “Proposal Agreement” and I attended a in-person meeting with all the partners where they explained the project in detail.
-- Writing this text took me about 2 hours.
+- Writing this text took me about 2h.
