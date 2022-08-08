@@ -10,12 +10,12 @@
 
 
 ## Sample 3 – Lauching a new project - article
-- [Link]([https://matgenix.com/boosting-the-research-and-development-of-new-solutions-for-materials-replacing-the-platinum-group-metals-pgm/](https://nickeffect.eu/2022/07/nickeffects-kick-off-meeting-in-san-sebastian/))
+- [Link](https://matgenix.com/boosting-the-research-and-development-of-new-solutions-for-materials-replacing-the-platinum-group-metals-pgm/](https://nickeffect.eu/2022/07/nickeffects-kick-off-meeting-in-san-sebastian/)
 
 
 ## Sample 2 – Blog post ith startup tips
 
-Title: 8 tips to succeed as a startup
+##Title: 8 tips to succeed as a startup
 
 I’m sure you are an entrepreneur! 
 One day you just realized that you found the perfect business idea and you are so excited about it, you want to pursue it and you can’t even believe that no one has ever thought about doing that before. 
