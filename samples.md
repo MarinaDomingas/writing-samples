@@ -10,7 +10,7 @@
 
 
 ## Sample 3 – Lauching a new project - article
-- [Link](https://matgenix.com/boosting-the-research-and-development-of-new-solutions-for-materials-replacing-the-platinum-group-metals-pgm/](https://nickeffect.eu/2022/07/nickeffects-kick-off-meeting-in-san-sebastian/)
+- [Link](https://nickeffect.eu/2022/07/nickeffects-kick-off-meeting-in-san-sebastian/)
 
 
 ## Sample 2 – Blog post ith startup tips
