@@ -1,21 +1,21 @@
 
-# Sample 1 – Project newsletter
+## Sample 1 – Project newsletter
 - [Link](https://mailchi.mp/c8c98c1997b0/mediatechonstage-grand-finale?e=763801eb07) 
 
 
 
-# Sample 2 – Open call page
+## Sample 2 – Open call page
 - [Link](https://www.aiplan4eu-project.eu/call-for-use-cases/open-call-3-for-use-cases/)
 
 
 
-# Sample 3 – Lauching a new project - article
+## Sample 3 – Lauching a new project - article
 - [Link](https://nickeffect.eu/2022/07/nickeffects-kick-off-meeting-in-san-sebastian/)
 
 
-# Sample 2 – Blog post with startup tips
+## Sample 2 – Blog post with startup tips
 
-##Title: 8 tips to succeed as a startup
+### Title: 8 tips to succeed as a startup
 
 I’m sure you are an entrepreneur! 
 One day you just realized that you found the perfect business idea and you are so excited about it, you want to pursue it and you can’t even believe that no one has ever thought about doing that before. 
